@@ -22,6 +22,8 @@ void print(const std::string& title, const std::vector<patrons*>& patrons) {
 void load(std::vector<patrons>& items) {
 	ifstream file("test.txt");
 	
+	//todo: add some code
+
 	/*string buf;
 	file >> buf;
 	while (!file.eof()) {
