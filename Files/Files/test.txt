@@ -1,0 +1,8 @@
+kamaz;4
+bmw;4
+lada;3
+asd;1
+asds;2
+asdsada;3
+asdasd;4
+asdsada;5
